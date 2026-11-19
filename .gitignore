@@ -1,3 +1,10 @@
 __pycache__
 .env
 .learndata/cache/
+data/cache/
+data/raw/
+data/tfrecords/
+data/train/
+data/test/
+data/processed/
+data/interim/
